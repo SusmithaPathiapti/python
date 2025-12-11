@@ -1,0 +1,5 @@
+C:\Users\Susmitha\Desktop\CODE ----  cmd 
+termina>> code . 
+cmd 
+conda activate health 
+python manage.py runserver
